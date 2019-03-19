@@ -1,0 +1,7 @@
+Flask==1.0.2
+flask-restplus==0.12.1
+Keras==2.2.3
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
+numpy==1.15.4
+tensorflow==1.12.0
